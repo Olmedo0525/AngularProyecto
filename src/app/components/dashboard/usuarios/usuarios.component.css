@@ -1,0 +1,22 @@
+table {
+  width: 100%;
+  margin-top: 15px;
+}
+
+th{
+  width: 20%;
+}
+
+mat-icon{
+  width: 15%;
+}
+
+.pointer{
+  cursor: pointer;
+}
+
+.mat-mdc-form-field {
+  margin-top: 15px;
+  font-size: 14px;
+  width: 100%;
+}
